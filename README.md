@@ -1,4 +1,8 @@
-These are just some random Jupyter notebooks. You'll need install some things if you want to use them. First get [Python3](https://www.python.org/downloads/) and then:
+These are just some random Jupyter notebooks.
+
+You can try to lauch them on binder: [![Binder](http://mybinder.org/badge.svg)](http://mybinder.org/repo/edsu/notebooks)
+
+Or to run them locally you'll need to install a few things:
 
     % pip install pipenv
     % git clone https://github.com/edsu/notebooks
