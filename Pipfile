@@ -4,11 +4,11 @@ verify_ssl = true
 name = "pypi"
 
 [packages]
-internetarchive = "*"
 jupyter = "*"
 pandas = "*"
 matplotlib = "*"
-plyvel = "*"
+requests = "*"
+tqdm = "*"
 
 [dev-packages]
 
