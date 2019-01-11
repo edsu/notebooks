@@ -9,6 +9,7 @@ pandas = "*"
 matplotlib = "*"
 requests = "*"
 tqdm = "*"
+twarc = "*"
 
 [dev-packages]
 

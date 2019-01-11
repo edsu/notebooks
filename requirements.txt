@@ -2,3 +2,4 @@ requests
 pandas
 matplotlib
 tqdm
+twarc
