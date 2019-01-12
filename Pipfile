@@ -10,6 +10,7 @@ matplotlib = "*"
 requests = "*"
 tqdm = "*"
 twarc = "*"
+twint = "*"
 
 [dev-packages]
 
