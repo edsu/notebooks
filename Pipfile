@@ -11,6 +11,11 @@ requests = "*"
 tqdm = "*"
 twarc = "*"
 twint = "*"
+networkx = "*"
+altair = "*"
+vega-datasets = "*"
+vega = "*"
+nx-altair = "*"
 
 [dev-packages]
 
