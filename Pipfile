@@ -16,6 +16,7 @@ altair = "*"
 vega-datasets = "*"
 vega = "*"
 nx-altair = "*"
+savepagenow = "*"
 
 [dev-packages]
 
