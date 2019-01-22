@@ -17,6 +17,7 @@ vega-datasets = "*"
 vega = "*"
 nx-altair = "*"
 savepagenow = "*"
+aiohttp-socks = "*"
 
 [dev-packages]
 
