@@ -18,6 +18,8 @@ vega = "*"
 nx-altair = "*"
 savepagenow = "*"
 aiohttp-socks = "*"
+csvkit = "*"
+"psycopg2-binary" = "*"
 
 [dev-packages]
 
