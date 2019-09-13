@@ -20,8 +20,6 @@ savepagenow = "*"
 aiohttp-socks = "*"
 csvkit = "*"
 "psycopg2-binary" = "*"
+pygithub = "*"
 
 [dev-packages]
-
-[requires]
-python_version = "3"
