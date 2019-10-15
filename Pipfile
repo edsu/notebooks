@@ -21,5 +21,6 @@ aiohttp-socks = "*"
 csvkit = "*"
 "psycopg2-binary" = "*"
 pygithub = "*"
+pyvis = "*"
 
 [dev-packages]
