@@ -22,5 +22,6 @@ csvkit = "*"
 "psycopg2-binary" = "*"
 pygithub = "*"
 pyvis = "*"
+ipwhois = "*"
 
 [dev-packages]
