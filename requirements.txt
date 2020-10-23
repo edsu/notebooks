@@ -3,3 +3,5 @@ pandas
 matplotlib
 tqdm
 twarc
+jupyter 
+git+https://github.com/JustAnotherArchivist/snscrape.git
