@@ -23,5 +23,6 @@ csvkit = "*"
 pygithub = "*"
 pyvis = "*"
 ipwhois = "*"
+python-dotenv = "*"
 
 [dev-packages]
