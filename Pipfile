@@ -24,5 +24,6 @@ pygithub = "*"
 pyvis = "*"
 ipwhois = "*"
 python-dotenv = "*"
+requests-html = "*"
 
 [dev-packages]
