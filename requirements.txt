@@ -1,7 +1,8 @@
-requests
-pandas
-matplotlib
 tqdm
 twarc
-jupyter 
+pandas
+plotly
+jupyter
+requests
+matplotlib
 git+https://github.com/JustAnotherArchivist/snscrape.git
