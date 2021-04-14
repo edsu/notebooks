@@ -2,7 +2,9 @@ tqdm
 twarc
 pandas
 plotly
+psutil
 jupyter
 requests
 matplotlib
+plotly-orca
 git+https://github.com/JustAnotherArchivist/snscrape.git
