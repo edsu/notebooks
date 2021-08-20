@@ -11,3 +11,9 @@ to install Python3 and a few things, preferably in a pipenv:
 Then pick a notebook:
 
     % jupyter notebook ArchiveTeam.ipynb
+
+## License
+
+These notebooks are available with a [CC-BY] license.
+
+[CC-BY]: https://creativecommons.org/licenses/by/4.0/
