@@ -7,4 +7,6 @@ jupyter
 requests
 matplotlib
 plotly-orca
+internetarchive
 git+https://github.com/JustAnotherArchivist/snscrape.git
+
