@@ -4,7 +4,9 @@ pandas
 plotly
 psutil
 jupyter
+wayback
 requests
+jupyterlab
 matplotlib
 internetarchive
 git+https://github.com/JustAnotherArchivist/snscrape.git
