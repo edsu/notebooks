@@ -1,4 +1,5 @@
 tqdm
+boto3
 twarc
 pandas
 plotly
