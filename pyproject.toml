@@ -1,0 +1,28 @@
+[tool.poetry]
+name = "notebooks"
+version = "0.1.0"
+description = "Some of my notebooks and data"
+authors = ["Ed Summers <ehs@pobox.com>"]
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.10"
+tqdm = "^4.66.4"
+boto3 = "^1.34.100"
+twarc = "^2.14.0"
+pandas = "^2.2.2"
+plotly = "^5.22.0"
+psutil = "^5.9.8"
+jupyter = "^1.0.0"
+wayback = "^0.4.5"
+requests = "^2.31.0"
+jupyterlab = "^4.2.0"
+matplotlib = "^3.8.4"
+internetarchive = "^4.1.0"
+snscrape = {git = "https://github.com/JustAnotherArchivist/snscrape.git"}
+scipy = "^1.13.0"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
