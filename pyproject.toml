@@ -21,6 +21,7 @@ matplotlib = "^3.8.4"
 internetarchive = "^4.1.0"
 snscrape = {git = "https://github.com/JustAnotherArchivist/snscrape.git"}
 scipy = "^1.13.0"
+kaleido = "0.2.0"
 
 
 [build-system]
