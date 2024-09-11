@@ -22,6 +22,7 @@ internetarchive = "^4.1.0"
 snscrape = {git = "https://github.com/JustAnotherArchivist/snscrape.git"}
 scipy = "^1.13.0"
 kaleido = "0.2.0"
+pyalex = "^0.15.1"
 
 
 [build-system]
