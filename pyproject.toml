@@ -1,30 +1,27 @@
-[tool.poetry]
+[project]
 name = "notebooks"
 version = "0.1.0"
-description = "Some of my notebooks and data"
-authors = ["Ed Summers <ehs@pobox.com>"]
+description = "Add your description here"
 readme = "README.md"
+requires-python = ">=3.12"
+dependencies = [
+    "boto3>=1.37.26",
+    "internetarchive>=5.3.1",
+    "jupyter>=1.1.1",
+    "jupyterlab>=4.3.6",
+    "kaleido>=0.2.1",
+    "matplotlib>=3.10.1",
+    "pandas>=2.2.3",
+    "plotly>=6.0.1",
+    "psutil>=7.0.0",
+    "pyalex>=0.18",
+    "requests>=2.32.3",
+    "scipy>=1.15.2",
+    "snscrape>=0.7.0.20230622",
+    "tqdm>=4.67.1",
+    "twarc>=2.14.0",
+    "wayback>=0.4.5",
+]
 
-[tool.poetry.dependencies]
-python = "^3.10"
-tqdm = "^4.66.4"
-boto3 = "^1.34.100"
-twarc = "^2.14.0"
-pandas = "^2.2.2"
-plotly = "^5.22.0"
-psutil = "^5.9.8"
-jupyter = "^1.0.0"
-wayback = "^0.4.5"
-requests = "^2.31.0"
-jupyterlab = "^4.2.0"
-matplotlib = "^3.8.4"
-internetarchive = "^4.1.0"
-snscrape = {git = "https://github.com/JustAnotherArchivist/snscrape.git"}
-scipy = "^1.13.0"
-kaleido = "0.2.0"
-pyalex = "^0.15.1"
-
-
-[build-system]
-requires = ["poetry-core"]
-build-backend = "poetry.core.masonry.api"
+[tool.uv]
+constraint-dependencies = ["kaleido==0.2.1"]
